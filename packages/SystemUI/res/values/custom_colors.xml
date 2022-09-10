@@ -16,6 +16,6 @@
 -->
 <resources>
     <!-- reTicker Background Color -->
-    <color name="reticker_background_color">@android:color/system_neutral1_50</color>
+    <color name="reticker_background_color">@android:color/system_neutral1_0</color>
 
 </resources>
